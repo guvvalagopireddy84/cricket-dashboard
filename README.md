@@ -60,7 +60,7 @@ Raw data  →  Python pipeline  →  compact summary tables  →  single self-co
 
 ## Background
 
-Built as the Data Visualisation Project for **FIT5147 (Data Exploration and Visualisation)** at Monash University, using the Five Design-Sheet methodology — three complete alternative designs were sketched and the final combines the strongest ideas from each. Design and code by **Guvvala Gopi Reddy**, with AI assistance for code scaffolding and debugging.
+Built as the Data Visualisation Project for **FIT5147 (Data Exploration and Visualisation)** at Monash University, using the Five Design-Sheet methodology — three complete alternative designs were sketched and the final combines the strongest ideas from each. Design and code by **Guvvala Gopi Reddy**
 
 ## Files
 - `T20_WorldCup_Analysis.html` — the complete interactive visualisation (open this).
